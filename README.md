@@ -1,1 +1,1 @@
-esse script serve para auxilio na fase de information gathering, ele baixa o index da pagina pelo utilitário "wget" o script faz a leitura do arquivo filtrando os domínios ou subdomínios que ele achar e salva em um arquivo.
+esse script serve para auxilio na fase de information gathering de um pentest, ele baixa o index da pagina pelo utilitário "wget" o script faz a leitura do arquivo filtrando os domínios ou subdomínios que ele achar e salva em um arquivo.
